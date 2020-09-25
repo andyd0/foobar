@@ -1,4 +1,3 @@
 # Google Foobar
 
-Currently at level 4 pt 2. Not really sure if this coding challenge is monitored anymore but I'm still working through it
-for the fun of it.
+Currently at level 4 pt 2. It's not clear if this coding challenge is still monitored but I'm still working through the problems to learn from it
