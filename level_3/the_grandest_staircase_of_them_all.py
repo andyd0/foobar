@@ -1,3 +1,5 @@
+# The Grandest Staircase of Them All
+
 def solution(n):
   # since n will always be at least 3, no point in building cache
   # etc if we know it's going to be 1.
